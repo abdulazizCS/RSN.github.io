@@ -2936,6 +2936,7 @@ code {
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-bottom: 20px !important;
   border-radius: 0.25rem;
+  height: 100px;
 }
 
 .card > .list-group:first-child .list-group-item:first-child {
