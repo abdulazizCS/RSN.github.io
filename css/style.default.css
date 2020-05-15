@@ -1008,7 +1008,6 @@ input.text-white::placeholder {
 section {
   position: relative;
   padding: 6.5rem 0;
-  padding-bottom: 0rem;
 }
 
 .with-pattern-1::before {
