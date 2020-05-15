@@ -2913,6 +2913,8 @@ code {
 .card {
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.125);
+  min-height: 260px;
+  margin-bottom: 20px !important;
   border-radius: 0.25rem;
 }
 
