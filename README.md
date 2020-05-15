@@ -1,2 +1,2 @@
-# RSN.github.io
+# RSN NE
 RSN NE Landing page
