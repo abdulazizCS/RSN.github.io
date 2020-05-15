@@ -2921,6 +2921,13 @@ code {
   border-radius: 0.25rem;
 }
 
+.cardl {
+  background-color: #fff;
+  border: 1px solid rgba(0, 0, 0, 0.125);
+  margin-bottom: 20px !important;
+  border-radius: 0.25rem;
+}
+
 .card > .list-group:first-child .list-group-item:first-child {
   border-top-left-radius: 0.25rem;
   border-top-right-radius: 0.25rem;
