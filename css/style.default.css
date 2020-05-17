@@ -6,7 +6,7 @@
 
 @media (min-width: 768px)
    .logo-img img {
-       width: 125px;
+       width: 125px !important;
    }
 
    .cardl {
