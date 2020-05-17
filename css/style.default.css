@@ -29,7 +29,6 @@
     filter: grayscale(1);
 }
 .cardl:hover img {
-    width: 100%;
     filter: grayscale(0);
 }
 
