@@ -4,15 +4,7 @@
 * ===================================================
 */
 
-@media (min-width: 768px)
-   .logo-img img {
-       width: 125px !important;
-   }
 
-   .cardl {
-       text-align: center;
-   }
-}
 
 /*
    Addons
@@ -20,16 +12,16 @@
 */
 .logo-img img
 {
-    width: 100%;
-   filter: grayscale();
-}
-.logo-img img
-{
-    width: 100%;
-    filter: grayscale(1);
+   width: 175px;
+   filter: grayscale(1);
 }
 .cardl:hover img {
     filter: grayscale(0);
+}
+
+.rsn img
+{
+   width: 135px;
 }
 
 /*
