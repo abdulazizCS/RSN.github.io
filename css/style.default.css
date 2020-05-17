@@ -8,6 +8,10 @@
    .logo-img img {
        width: 125px;
    }
+
+   .logo {
+       text-align: center;
+   }
 }
 
 /*
