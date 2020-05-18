@@ -2932,6 +2932,7 @@ code {
 }
 
 .cardl {
+  text-align: center;
   background-color: #fff;
   border: 1px solid rgba(0, 0, 0, 0.125);
   margin-bottom: 20px !important;
